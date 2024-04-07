@@ -1,4 +1,4 @@
-## Tools Used: ### Python, BeautifulSoup, Web Scraping, Functions, Pandas, Dataframe, SQLALCHEMY, ORM, Database Modelling, MySQL
+### Tools Used: ### Python, BeautifulSoup, Web Scraping, Functions, Pandas, Dataframe, SQLALCHEMY, ORM, Database Modelling, MySQL
 
 #### In this project I used python's BeautifulSoup library 
 
